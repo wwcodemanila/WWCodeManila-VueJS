@@ -7,10 +7,21 @@
   - [Study Groups](wwcodemanila/study_groups.md)
 
 - Contents
-  - [Ruby Fundamentals](contents/ruby_fundamentals.md)
-  - [Ruby on Rails](contents/ruby_on_rails.md)
-  - [Agile Web Development](contents/agile_web_development.md)
+  - [Overview](contents/overview.md)
+  - **Basic Topics**
+    - Vue Instance and Template Syntax
+    - Conditionals and Lists
+    - Vue CLI
+    - Intro to Components
+    - State Management
+    - Forms
+  - **Advanced Topics**
+    - Advanced Components
+    - Directives
+    - Vue-router and Vuex
+    - Vue-resource and Axios
+    - Authentication and Validation
 
-- Resources
-  - [Ruby Conventions](resources/ruby_conventions.md)
-  - [References](resources/references.md)
+- Intro to Vuetify.js
+
+- [**References**](resources/references.md)

@@ -2,18 +2,15 @@
 
 Reading software documentation is part of being a software developer. You can find information about built-in methods in Ruby and Ruby on Rails.
 
-- Ruby Official Documentation: http://ruby-doc.org/
-- Ruby on Rails Guides: http://guides.rubyonrails.org/
+- Vue JS Official Docs: https://vuejs.org/v2/guide/
 
 ## Online tutorials
 
 You can also refer to these online tutorials to help you get started.
 
-- http://tryruby.org/
-- http://railsforzombies.org/
-- https://www.codecademy.com/learn/learn-rails
-- https://www.railstutorial.org/book
+- https://scrimba.com/g/glearnvue
 
 ## Useful resources
 
-- [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide).
+- [ES6](http://exploringjs.com/es6/ch_overviews.html)
+- [Women Who Code Resources](https://www.womenwhocode.com/resources)

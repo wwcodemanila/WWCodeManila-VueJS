@@ -1,16 +1,4 @@
-# Women Who Code Manila Ruby Study Group
-
-![Ruby](_media/ruby.png)
-
-**Ruby** is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. (from https://www.ruby-lang.org/en/)
-
-Learn more about Ruby from their [official site](https://www.ruby-lang.org/en/).
-
-![Ruby](_media/ror.png)
-
-**Ruby on Rails** is a server-side web application framework built with Ruby. It is popular with tech startups since you can quickly build web applications from scratch.
-
-Learn more about Ruby on Rails from their [official site](https://rubyonrails.org/).
+# Women Who Code Manila Vue JS Study Group
 
 ## About this study group
 
@@ -22,8 +10,8 @@ Everyone joining this study group and other Women Who Code events must follow ou
 
 ## Relevant links
 
-- [Gitter Chat](https://gitter.im/WWCodeManila/Ruby-On-Rails): Interact with the community. You can share something about Ruby, or ask help if you're stuck on a problem.
-- [Github](https://github.com/wwcodemanila/WWCodeManila-Ruby.RubyOnRails): View study group code
+- Gitter Chat: Interact with the community. You can share something about Ruby, or ask help if you're stuck on a problem.
+- [Github](https://github.com/wwcodemanila/WWCodeManila-VueJS): View study group code
 - [Meetup](https://bit.ly/wwcodemanilameetups): Get updated with the upcoming study group and other event schedules.
 - [Facebook](https://facebook.com/wwcodemanila): Get updated about what's happening with the community.
 - [Twitter](https://twitter.com/wwcodemanila): Get updates about current and future events.
@@ -46,7 +34,4 @@ Do you want to host one of our study groups? Email us at **manila@womenwhocode.c
 
 ## Contributors
 
-- Joy Paas ([@kjcpaas](https://github.com/kjcpaas))
-- Mars Gabutero ([@amdg](https://github.com/amdg))
-- Ce Manalang ([@ce-walalang](https://github.com/ce-walalang))
-- Joyce Sayco ([@josephinesayco](https://github.com/josephinesayco))
+- Krizza Bullecer ([@sirbully](https://github.com/sirbully))
