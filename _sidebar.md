@@ -21,6 +21,6 @@
     - Vue-router and Vuex
     - Vue-resource and Axios
     - Authentication and Validation
-  - Intro to Vuetify.js
+  - **Intro to Vuetify.js**
 
 - [**References**](resources/references.md)
