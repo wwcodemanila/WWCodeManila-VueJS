@@ -16,11 +16,13 @@
     - State Management
     - Forms
   - **Advanced Topics**
+    - Best Practices
     - Advanced Components
     - Directives
     - Vue-router and Vuex
     - Vue-resource and Axios
     - Authentication and Validation
-  - **Intro to Vuetify.js**
+  - **Intro to Vuetify**
+    - What is Vuetify?
 
 - [**References**](resources/references.md)
