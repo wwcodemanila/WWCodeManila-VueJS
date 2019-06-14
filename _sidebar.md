@@ -9,8 +9,8 @@
 - Contents
   - [Overview](contents/overview.md)
   - **Basic Topics**
-    - Vue Instance and Template Syntax
-    - Conditionals and Lists
+    - [Vue Instance and Template Syntax](contents/vue_instance_template_syntax.md)
+    - [Conditionals and Lists](contents/vue_conditionals_lists.md)
     - Vue CLI
     - Intro to Components
     - State Management
