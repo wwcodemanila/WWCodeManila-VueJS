@@ -13,8 +13,3 @@ Ruby does not require an IDE. You can opt to use one of these as your text edito
 - [VSCode](https://code.visualstudio.com/) (all platforms)
 - [Atom](https://atom.io/) (all platforms)
 - [Textmate](https://macromates.com/) (OS X only)
-
-For more advanced users, you can opt to use these terminal-based editors:
-
-- [Vim](http://www.vim.org/)
-- [Emacs](https://www.gnu.org/software/emacs/)
