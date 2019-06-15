@@ -9,7 +9,7 @@
 - Contents
   - [Overview](contents/overview.md)
   - **Basic Topics**
-    - [Vue Instance and Template Syntax](contents/vinstances.md)
+    - [Vue Instance and Template Syntax](contents/vinstance.md)
     - [Conditionals and Lists](contents/vconditionals.md)
     - Vue CLI
     - Intro to Components
